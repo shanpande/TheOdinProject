@@ -1,0 +1,24 @@
+/* rule 1 */
+.class.second-class {
+    font-size: 50px;
+    color: blue;
+  }
+  
+  /* rule 2 */
+  .class > .second-class {
+    font-size: 24px;
+    color: red;
+  }
+
+
+  /* styles.css */
+
+
+  .warning {
+    color: yellow;
+  }
+
+  .alert {
+    color: red;
+  }
+  

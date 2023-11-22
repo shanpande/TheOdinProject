@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    border: 2px solid black;
+}
+
+.box-one{
+    background-color: #EB5757;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    border: 20px solid #9B51E0;
+    margin: 60px;
+    box-sizing: border-box;
+}
+
+.box-two{
+    background-color: #2D9cDB;
+    border: 0 solid #27AE60;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    border: 30px solid #9B51E0;
+    margin: 60px;
+}
+
+p,
+ul {
+  border: 2px solid rebeccapurple;
+  padding: .5em;
+}
+
+.block {
+    display: block;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+  }
