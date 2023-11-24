@@ -1,0 +1,55 @@
+/* styles.css */
+* {
+  font-family: 'Times New Roman', Courier, monospace, sans-serif;
+  text-align: left;
+  background-color: cornsilk;
+}
+
+.anim1 {
+  animation: rainbow 10s linear infinite;
+  background: #ff0;
+}
+
+.heading1{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Brush Script MT";
+}
+
+.hyperlink {
+  font-size: 30px;
+  color: green;  
+  font-family: "Brush Script MT";
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border-radius: 50px;
+}
+
+.heading2{
+  text-align: justify;
+  color: black;
+  font-family: "Brush Script MT";
+  font-size:35px;
+}
+
+.heading3{
+  text-align: justify;
+  color: black;
+  font-family: "Brush Script MT";
+  font-size:25px;
+}
+
+.heading4{
+  text-align: justify;
+  color: black;
+  font-family: "Brush Script MT";
+  font-size:20px;
+  background-color: cornsilk;
+  display: inline;
+}
